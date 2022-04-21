@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vimmystique a self taught web developer
+- 👋 Hi, I’m @vimmystique a self taught software engineer
 - 👀 I’m interested in  web, desktop and mobile applications development
 - 📫 How to reach me : +233574169269 / vimmystique@gmail.com
 
